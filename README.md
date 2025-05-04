@@ -1,4 +1,4 @@
-# Next.js + Go Template
+# Next.js + Go + Mongo + Clerk Template
 
 A modern full-stack application template using Next.js for the frontend and Go for the backend, with Clerk authentication and MongoDB for data storage.
 
