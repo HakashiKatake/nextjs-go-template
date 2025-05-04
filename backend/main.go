@@ -58,7 +58,7 @@ func main() {
 
 	// Configure CORS
 	corsMiddleware := cors.New(cors.Options{
-		AllowedOrigins:   []string{"http://localhost:3000"},
+		AllowedOrigins:   []string{"https://nextjs-go-template-virid.vercel.app/"},
 		AllowedMethods:   []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"},
 		AllowedHeaders:   []string{"Content-Type", "Authorization", "X-User-ID"},
 		AllowCredentials: true,
