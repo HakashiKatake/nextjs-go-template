@@ -12,8 +12,8 @@ A modern full-stack application template using Next.js for the frontend and Go f
 
 # Hosting Info
 
-Currently the frontend is hosted on vercel: https://nextjs-go-template-virid.vercel.app/
-Currently the backend is hosted on render: https://nextjs-go-template.onrender.com
+- Currently the frontend is hosted on vercel: https://nextjs-go-template-virid.vercel.app/
+- Currently the backend is hosted on render: https://nextjs-go-template.onrender.com
 
 ## Project Structure
 
